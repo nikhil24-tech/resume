@@ -1,0 +1,42 @@
+.User-Photo{
+  width: 150px;
+  height: auto;
+}
+
+
+table[scope="2"] {
+    border-collapse: collapse;
+    border: 2px solid rgb(199, 0, 57);
+    letter-spacing: 1px;
+    font-family: sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+th {
+    border: 1px solid #333;
+    padding: 10px;
+}
+
+
+
+th[scope="col"] {
+    background-color: #FF5733 ;
+    color: #fff;
+}
+
+th[scope="row"] {
+    background-color: #DC7633;
+
+}
+
+
+table[scope="3"]{
+  border: 1px solid #333;
+  letter-spacing: 1px;
+  text-align: left;
+}
+
+#one{
+    border: 1px solid #333;
+}
