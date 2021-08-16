@@ -40,3 +40,16 @@ table[scope="3"]{
 #one{
     border: 1px solid #333;
 }
+
+#two{
+    border: 5px solid;
+     border-style: dotted;
+}
+
+h1{
+color: #005A8D;
+}
+
+h3{
+color: #022E57;
+}
